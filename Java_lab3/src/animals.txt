@@ -1,0 +1,9 @@
+Chordata Mammalia Carnivora Canidae Canis Dog 5 white
+Chordata Aves Anseriformes Anatidae Duck Duck 8 yellow
+Chordata Mammalia Carnivora Felidae Felis Cat 9 grey
+Chordata Mammalia Carnivora Canidae Canis Dog 1 grey
+Chordata Aves Anseriformes Anatidae Duck Duck 6 grey
+Chordata Mammalia Carnivora Felidae Felis Cat 6 white
+Chordata Mammalia Carnivora Canidae Canis Dog 7 black
+Chordata Mammalia Carnivora Felidae Felis Cat 2 black
+Chordata Aves Anseriformes Anatidae Duck Duck 2 yellow
